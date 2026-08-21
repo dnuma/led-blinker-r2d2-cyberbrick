@@ -1,6 +1,9 @@
 # CyberBrick Alternating LED Snippets
 
-Make CyberBrick LEDs alternate between two colours from a 3-position switch.
+Make CyberBrick LEDs alternate between two colours from a 3-position switch. My inspiration comes from this amazing 3D print project: https://makerworld.com/en/models/1549117-build-a-droid-cyberbrick-based-robot-kit#profileId-1689536
+
+<img width="548" height="986" alt="Adobe Express - WhatsApp Video 2026-08-20 at 10 09 42" src="https://github.com/user-attachments/assets/bdc1a92a-dc04-43be-a8b8-308bc8b545e7" />
+
 
 The app's LED effects store a single RGB value each, and `blink` toggles that one colour
 against off. Two-colour alternation is impossible through the GUI. These snippets do it.
